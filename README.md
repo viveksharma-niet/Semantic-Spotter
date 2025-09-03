@@ -56,7 +56,7 @@ Ensure you have the following installed:
 
 ### Installation
 1. Clone the repo:
-git clone https://github.com/SandeepGitGuy/Semantic_Spotter_AI_Project_GenAI_UpGrad_IIITB.git
+git clone https://github.com/viveksharma-niet/Semantic-Spotter.git
 
 2. Navigate to the project directory:
 cd Semantic_Spotter_AI_Project_GenAI_UpGrad_IIITB
@@ -103,11 +103,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 💬 Contact
-For any queries or feedback, feel free to reach out:
 
-- **Email**: sandy974278@gmail.com
-- **GitHub**: https://github.com/SandeepGitGuy
-- **LinkedIn**: www.linkedin.com/in/sandeepgowda24a319192
 
 ---
